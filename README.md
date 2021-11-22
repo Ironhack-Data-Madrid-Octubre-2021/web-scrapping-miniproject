@@ -16,8 +16,9 @@ He wants you to get the most relevant data and extract some insights from it.
 4. Visualize at least 5 insights and export the graphs.
 
 ## Deliverables
-
-Create a markdown file (like the readme) with a brief report including at least 5 graphs summarizing your conclusions. Use markdown format and include the exported graphs as images.
+- Jupyter notebook with the scraped data.
+- Exported visualization data.
+- Create a markdown file (like the readme) with a brief report including at least 5 graphs summarizing your conclusions. Use markdown format and include the exported graphs as images.
 
 
 ## Links & Resources
